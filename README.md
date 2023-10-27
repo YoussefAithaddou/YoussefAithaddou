@@ -9,7 +9,7 @@ Youssef is a recent graduate from The University of Alberta with a masters in Ma
 * 🌍  I'm based in Edmonton, AB, Canada
 * 🖥️  See my portfolio at [MyPortfolio](http://youssefaithaddou.github.io)
 * ✉️  You can contact me at [youssef.aithddo@gmail.com](mailto:youssef.aithddo@gmail.com)
-* 🧠  I'm learning Transformers in data science
+* 🧠  I'm currently learning LLM with LangChain and working on a new project
 
 ### Skills
 
