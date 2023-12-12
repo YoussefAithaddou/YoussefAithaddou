@@ -6,7 +6,7 @@ Data Scientist. ML engineer. Problem solver.
 
 Youssef is a recent graduate from The University of Alberta with a masters in Math and Statistics with specialization in Data, Modeling and Predictions.
 
-* 🌍  I'm based in Edmonton, AB, Canada
+* 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [MyPortfolio](http://youssefaithaddou.github.io)
 * ✉️  You can contact me at [youssef.aithddo@gmail.com](mailto:youssef.aithddo@gmail.com)
 * 🧠  I'm currently learning LLM with LangChain and working on a new project
