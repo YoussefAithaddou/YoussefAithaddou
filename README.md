@@ -9,7 +9,7 @@ Youssef is a recent graduate from The University of Alberta with a masters in Ma
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [MyPortfolio](http://youssefaithaddou.github.io)
 * ✉️  You can contact me at [youssef.aithddo@gmail.com](mailto:youssef.aithddo@gmail.com)
-* 🧠  I'm currently learning LLM with LangChain and working on a new project
+* 🧠  I'm currently learning Large Reasoning Models and experimenting with Deepseek R1
 
 ### Skills
 
